@@ -1,0 +1,15 @@
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/bin/Debug/net6.0/workshop
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/bin/Debug/net6.0/workshop.deps.json
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/bin/Debug/net6.0/workshop.runtimeconfig.json
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/bin/Debug/net6.0/workshop.dll
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/bin/Debug/net6.0/workshop.pdb
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/workshop.csproj.AssemblyReference.cache
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/workshop.GeneratedMSBuildEditorConfig.editorconfig
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/workshop.AssemblyInfoInputs.cache
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/workshop.AssemblyInfo.cs
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/workshop.csproj.CoreCompileInputs.cache
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/workshop.dll
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/refint/workshop.dll
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/workshop.pdb
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/workshop.genruntimeconfig.cache
+/home/thomas/Desktop/Notes/Softwareteknologi_i_cps/workshop/workshop_scps/workshop/workshop/obj/Debug/net6.0/ref/workshop.dll
